@@ -19,3 +19,5 @@ Recommended products section is not displayed on the product page.
 **Severity:** Low  
 **Priority:** Low
 
+## Attachments
+![Product page without recommended products](attachments/BUG-001/product-page-no-recommendations.png)
