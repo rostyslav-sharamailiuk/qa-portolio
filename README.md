@@ -16,4 +16,4 @@ This repository contains my QA testing projects and examples for e-commerce plat
 - Bug reporting, test planning  
 
 ## Contact
-[Your email] | [LinkedIn]
+rsharamailuk13@gmail.com
