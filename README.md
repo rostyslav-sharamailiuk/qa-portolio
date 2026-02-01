@@ -5,23 +5,6 @@ All examples are based on real e-commerce scenarios.
 
 ---
 
-## Repository Structure
-
-qa-portfolio/
-|
-|- api-testing/
-| |- postman/
-| |- test-cases/
-| |- E-commerce API Testing – FakeStore.postman_collection.json
-| |- FakeStoreAPI.postman_environment.json
-| |- README.md
-|
-|- test-cases/
-|- bug-reports/
-|- test-plan/
-
----
-
 ## 1. API Testing (Postman)
 
 **Location:**  
