@@ -19,3 +19,6 @@ Empty modal is shown and user can't close it and has to manually navigate back t
 
 **Severity:** Medium  
 **Priority:** Medium
+
+## Attachments
+![Brand page with empty modal](attachments/BUG-002/brand-empty-modal.png)
