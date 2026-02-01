@@ -12,9 +12,9 @@ All examples are based on real e-commerce scenarios.
 
 ### Collections & Environment
 - **Postman Collection:**  
-  `E-commerce API Testing – FakeStore.postman_collection.json`
+  `postman_collection.json`
 - **Postman Environment:**  
-  `FakeStoreAPI.postman_environment.json`
+  `postman_environment.json`
 
 ### Covered API Scenarios
 - **Products**
