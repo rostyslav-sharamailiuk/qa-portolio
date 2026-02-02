@@ -45,7 +45,7 @@ Detailed API test descriptions can be found in:
 ## 2. Manual Testing & UX Notes
 
 **Location:**  
-`test-cases/`
+`prestashop-demo/test-cases/`
 
 Manual test cases and UX notes based on **PrestaShop demo e-commerce store**.
 
@@ -66,7 +66,7 @@ Includes:
 ## 3. Bug Reports
 
 **Location:**  
-`bug-reports/`
+`prestashop-demo/bug-reports/`
 
 Sample bug reports written according to standard QA practices:
 - Clear title
@@ -80,7 +80,7 @@ Sample bug reports written according to standard QA practices:
 ## 4. Test Plan
 
 **Location:**  
-`test-plan/`
+`prestashop-demo/test-plan/`
 
 Example test plan describing:
 - Scope of testing
